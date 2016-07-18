@@ -8,6 +8,7 @@ Nasdaq Data-On-Demand is a cloud-based computing solution that provides easy and
 * Crossed and Locked Market Quotes
 * Quote Highs and Lows
 * Summarized Trades
+
 ### Quotes & Trades
 * Bid Quantity
 * Bid Price
