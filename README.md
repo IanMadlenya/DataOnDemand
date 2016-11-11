@@ -37,7 +37,7 @@ import xml.etree.cElementTree as ElementTree
 url = 'http://ws.nasdaqdod.com/v1/NASDAQAnalytics.asmx/GetSummarizedTrades'
 
 # Change symbols and date range as needed (not more that 30 days at a time)
-values = {'_Token' : '247F80E1279F451499B6D68857FA0A93',
+values = {'_Token' : 'BC2B181CF93B441D8C6342120EB0C971',
           'Symbols' : 'AAPL,MSFT',
           'StartDateTime' : '2/1/2015 00:00:00.000',
           'EndDateTime' : '2/18/2015 23:59:59.999',
